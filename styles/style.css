@@ -246,7 +246,6 @@
         display: flex;
         gap: 30px;
         justify-content: space-between;
-        position: relative;
     }
 
     .cards img {
@@ -284,7 +283,6 @@
         background: #0E8784;
         width: 352px;
         height: 380px;
-        position: absolute;
     }
 
     .card-2 {
@@ -293,7 +291,6 @@
         background: #0E8784;
         width: 352px;
         height: 380px;
-        position: absolute;
     }
 
     .card-3 {
@@ -302,7 +299,6 @@
         background: #0E8784;
         width: 352px;
         height: 380px;
-        position: absolute;
     }
 
     /* how styles */
